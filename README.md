@@ -12,7 +12,7 @@
 <h2 align="center">Highlighted Projects</h2>
 <p align="center">Here are a few projects I'm proud of:</p>
 <ul>
-  <li><a href="https://github.com/pinkplant/finalCaptstone.git">Project 1</a>: Description of Project 1</li>
+  <li><a href="https://github.com/pinkplant/finalCaptstone.git">Project 1 Description</a>:Capstone Project</li>
 </ul>
 
 <!-- Contact Section -->
@@ -24,4 +24,4 @@
 </p>
 
 <!-- Footer Section -->
-<p align="center">Made with ❤️ by [Yingyue Zhang]</p>
+<p align="center">Made with ❤️ by Yingyue Zhang</p>
