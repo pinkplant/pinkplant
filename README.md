@@ -12,7 +12,7 @@
 <h2 align="center">Highlighted Projects</h2>
 <p align="center">Here are a few projects I'm proud of:</p>
 <ul>
-  <li><a href="https://github.com/pinkplant/finalCaptstone.git">Project 1 Description</a>:Capstone Project</li>
+  <li><a href="https://github.com/pinkplant/finalCaptstone.git">Capstone Project </a>
 </ul>
 
 <!-- Contact Section -->
